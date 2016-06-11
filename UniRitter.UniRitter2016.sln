@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRitter.UniRitter2016.Specs", "UniRitter.UniRitter2016.Specs\UniRitter.UniRitter2016.Specs.csproj", "{EC223770-6B20-4F47-B128-CB27842DA01D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRitter.UniRitter2016", "UniRitter.UniRitter2016\UniRitter.UniRitter2016.csproj", "{EC0DD017-B973-452A-803C-828268A5C57D}"
